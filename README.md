@@ -8,13 +8,11 @@ This project is a React-based frontend application designed to interact with a b
 
 ## 2. Architecture Overview
 
-+----------------------------+
 
 React Frontend
 - Input Form Component
 - Result Display Component
 - API Communication Layer
-+----------------------------+
 
 ---
 
